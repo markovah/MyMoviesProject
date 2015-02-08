@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyMoviesProject</string>
+    <string name="Movies">Movies</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
